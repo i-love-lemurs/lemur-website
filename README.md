@@ -1,5 +1,8 @@
 ## Welcome to I Love Lemurs!
 
+[![Zoboomafoo](https://img.youtube.com/vi/YYxgJCSlCKM/0.jpg)]
+(https://www.youtube.com/watch?v=YYxgJCSlCKM "Zoboomafoo!!!")
+
 ![BabyLemur](/images/baby-lemur-hitching-a-ride-with-mom.jpg)
 
 ## Pages
