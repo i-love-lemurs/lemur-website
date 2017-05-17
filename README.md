@@ -5,10 +5,15 @@
 ![BabyLemur](/images/baby-lemur-hitching-a-ride-with-mom.jpg)
 
 ## Pages
-Habitat
-Behavior
-Anatomy
-Diet
+[Home](/README.md)
+[Fun Facts](/facts.md)
+[Pop Culture](/pop-culture.md)
+[Habitat](/anatomy.md)
+[Behavior](/behavior.md)
+[Classification](/classification.md)
+[Anatomy](/anatomy.md)
+[Mating](/mating.md)
+[Diet](/diet.md)
 [Image Gallery](/ImageGallery.md)
 
 This is a page dedicated to the humble Lemur, aka Lemur Catta!
