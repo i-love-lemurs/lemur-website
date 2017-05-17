@@ -1,6 +1,7 @@
 [Home](/README.md) |
 [Fun Facts](/facts.md) |
 [Pop Culture](/pop-culture.md) |
+[Communication](/communication.md) |
 [Habitat](/anatomy.md) |
 [Behavior](/behavior.md) |
 [Classification](/classification.md) |
@@ -8,6 +9,7 @@
 [Mating](/mating.md) |
 [Diet](/diet.md) |
 [Image Gallery](/ImageGallery.md)
+
 
 ## Lemur Behavior
 * Lemurs forage for fruit, which makes up the greater part of their diet, but also eat leaves, flowers, tree bark, and sap.
