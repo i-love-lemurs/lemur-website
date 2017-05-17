@@ -1,9 +1,6 @@
 ## Welcome to I Love Lemurs!
 
-[![Zoboomafoo](https://img.youtube.com/vi/YYxgJCSlCKM/0.jpg)]
-(https://www.youtube.com/watch?v=YYxgJCSlCKM "Zoboomafoo Theme song (English) Lyrics In Discription")
-
-[![Zoboomafoo](https://img.youtube.com/vi/YYxgJCSlCKM/0.jpg)](https://www.youtube.com/watch?v=YYxgJCSlCKM)
+[![Zoboomafoo](http://elmodenafrontline.com/wp-content/uploads/2014/11/zoob-ready.jpg)](https://www.youtube.com/watch?v=YYxgJCSlCKM)
 
 ![BabyLemur](/images/baby-lemur-hitching-a-ride-with-mom.jpg)
 
