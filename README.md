@@ -1,5 +1,5 @@
 ## Welcome to I Love Lemurs!
 
-[Image Gallery] (/ImageGallery.md)
+[Image Gallery](/ImageGallery.md)
 
 ### 
