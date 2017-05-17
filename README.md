@@ -2,8 +2,12 @@
 
 ![BabyLemur](/images/baby-lemur-hitching-a-ride-with-mom.jpg)
 
+## Pages
+Habitat
+Behavior
+Anatomy
+Diet
 [Image Gallery](/ImageGallery.md)
-
 
 ### 
 This is a page dedicated to the humble Lemur, aka Lemur Catta!
