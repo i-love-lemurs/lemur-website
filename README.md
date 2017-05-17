@@ -1,5 +1,6 @@
 ## Welcome to I Love Lemurs!
 
+![BabyLemur](/images/baby-lemur-hitching-a-ride-with-mom.jpg)
 
 [Image Gallery](/ImageGallery.md)
 
