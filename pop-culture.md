@@ -10,6 +10,9 @@
 [Diet](/diet.md) |
 [Image Gallery](/ImageGallery.md)
 
+![Lemur1](/images/lemurmovie1.jpg)
+![Lemur2](/images/lemurmovie2.jpg)
+
 ## Lemurs in Pop Culture
 
 ### MOVIES
