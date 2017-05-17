@@ -14,7 +14,7 @@
 
 [![Zoboomafoo](http://elmodenafrontline.com/wp-content/uploads/2014/11/zoob-ready.jpg)](https://www.youtube.com/watch?v=YYxgJCSlCKM)
 
-![](https://giphy.com/embed/j1xPW9ITZ4upG)
+![](http://www.reactiongifs.com/r/2013/03/0497847001364761959.gif)
 
 ![BabyLemur](/images/baby-lemur-hitching-a-ride-with-mom.jpg)
 
